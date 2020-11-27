@@ -35,5 +35,12 @@
       "authorLink": "https://www.newgrounds.com",
       "type": "Game"
     }
+    {
+      "location": "swfs/free_culture.swf",
+      "title": "Free Culture",
+      "author": "Lawrence Lessig",
+      "authorLink": "https://www.lessig.org/",
+      "type": "Presentation"
+    }
   ]
 }
