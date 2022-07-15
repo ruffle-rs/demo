@@ -1,6 +1,18 @@
 {
   "swfs": [
     {
+      "location": "logo-anim.swf",
+      "title": "Ruffle Logo",
+      "author": "Ruffle contributors",
+      "authorLink": "https://ruffle.rs",
+      "config": {
+        "autoplay": "on",
+        "backgroundColor": "#31497D",
+        "letterbox": "off",
+        "unmuteOverlay": "hidden"
+      }
+    },
+    {
       "location": "swfs/bitey1.swf",
       "title": "Bitey of Brackenwood",
       "author": "Adam Phillips",
