@@ -1,0 +1,1 @@
+function e(e,t){let n=e.length,r=e.getChannelData(0),i=e.getChannelData(1),a=0,o=0;for(;o<n;)r[o]=t[a],i[o]=t[a+1],o++,a+=2}function t(e,t){return Function(`return (${e})(...arguments);`)(...t)}export{e as n,t};
