@@ -9,7 +9,9 @@
         "autoplay": "on",
         "backgroundColor": "#31497D",
         "letterbox": "off",
-        "unmuteOverlay": "hidden"
+        "unmuteOverlay": "hidden",
+        "forceScale": false,
+        "forceAlign": false
       }
     },
     {
