@@ -1,0 +1,1 @@
+function o(n,e){const a=n.length,c=n.getChannelData(0),r=n.getChannelData(1);let l=0,t=0;for(;t<a;)c[t]=e[l],r[t]=e[l+1],t++,l+=2}function s(n,e){return new Function(`return (${n})(...arguments);`)(...e)}export{s as a,o as c};
