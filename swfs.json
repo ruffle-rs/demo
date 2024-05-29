@@ -11,7 +11,8 @@
         "letterbox": "off",
         "unmuteOverlay": "hidden",
         "forceScale": false,
-        "forceAlign": false
+        "forceAlign": false,
+        "favorFlash": false
       }
     },
     {
