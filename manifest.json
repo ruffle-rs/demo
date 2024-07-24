@@ -1,0 +1,37 @@
+{
+  "name": "Ruffle Player",
+  "id": "ruffle_player",
+  "description": "An open source Flash Player emulator. Made to run natively on all modern operating systems and browsers, Ruffle brings Flash content back to life with no extra fuss.",
+  "short_name": "Ruffle",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2c4270",
+  "theme_color": "#31497d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/icon180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/screenshot_narrow.png",
+      "type": "image/png",
+      "sizes": "1080x1440",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/assets/screenshot_wide.png",
+      "type": "image/png",
+      "sizes": "1440x1080",
+      "form_factor": "wide"
+    }
+  ]
+}
